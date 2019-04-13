@@ -1,27 +1,27 @@
 [
   {
     "id": 1,
-    "name": "ensino e aprendizagem de introdução à programação"
+    "name": "ENSINO"
   },
   {
     "id": 2,
-    "name": "Dificuldade dos estudantes",
+    "name": "ESTUDANTES",
     "parent": 1
   },
   {
     "id": 3,
-    "name": "Formulação do problema",
+    "name": "Ta dificil",
     "parent": 2
   },
   {
     "id": 4,
-    "name": "Pensamento algorítimico",
+    "name": "Funciona",
     "parent": 3,
     "size": 3938
   },
   {
     "id": 5,
-    "name": "Resolução do problema",
+    "name": "Mesmo",
     "parent": 3,
     "size": 3812
   },
